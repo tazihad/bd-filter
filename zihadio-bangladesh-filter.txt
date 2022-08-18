@@ -21,3 +21,9 @@ www.prothomalo.com##.fourCollection12Stories1Ad-m__ad-slot-300x250__9wUtm > .dfp
 
 ! 2022-08-18 https://www.24livenewspaper.com
 www.24livenewspaper.com##.paddingRBL.content
+
+! 2022-08-18 https://www.mobiledokan.com
+www.mobiledokan.com###cookie-law-info-bar
+
+! 2022-08-18 https://www.bdshop.com
+www.bdshop.com##.bottom-full.cookie.global.message
