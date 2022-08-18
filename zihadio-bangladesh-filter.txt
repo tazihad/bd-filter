@@ -1,3 +1,12 @@
+! Title: zihadio bangladesh filter
+! Description: Filters for blocking pop-ups and anti-adblock bypass ftom Bangladeshi websites
+! Author: zihadio
+! Expires: 3 days
+! Homepage: https://github.com/zihadio/bangladesh-filter
+! Licence: https://raw.githubusercontent.com/zihadio/bangladesh-filter/main/LICENSE.md
+! RAW: https://raw.githubusercontent.com/zihadio/bangladesh-filter/main/zihadio-bangladesh-filter.txt
+
+
 
 ! 2022-08-14 https://twitter.com
 twitter.com##.r-g6jmlv.r-ipm5af.r-1xcajam.r-xr3zp9.r-1pjcn9w.r-1777fci.r-1pi2tsx.r-18u37iz.r-1kihuf0.r-1awozwy.css-1dbjc4n
