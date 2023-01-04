@@ -1,10 +1,10 @@
-! Title: zihadio bangladesh filter
+! Title: tazihad bangladesh filter
 ! Description: Filters for blocking pop-ups and anti-adblock bypass ftom Bangladeshi websites
-! Author: zihadio
+! Author: tazihad
 ! Expires: 3 days
-! Homepage: https://github.com/zihadio/bangladesh-filter
-! Licence: https://raw.githubusercontent.com/zihadio/bangladesh-filter/main/LICENSE.md
-! RAW: https://raw.githubusercontent.com/zihadio/bangladesh-filter/main/zihadio-bangladesh-filter.txt
+! Homepage: https://github.com/tazihad/bangladesh-filter
+! Licence: https://raw.githubusercontent.com/tazihad/bangladesh-filter/main/LICENSE.md
+! RAW: https://raw.githubusercontent.com/tazihad/bangladesh-filter/main/zihadio-bangladesh-filter.txt
 
 
 
