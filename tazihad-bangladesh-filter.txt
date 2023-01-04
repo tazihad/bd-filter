@@ -4,7 +4,7 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/tazihad/bangladesh-filter
 ! Licence: https://raw.githubusercontent.com/tazihad/bangladesh-filter/main/LICENSE.md
-! RAW: https://raw.githubusercontent.com/tazihad/bangladesh-filter/main/zihadio-bangladesh-filter.txt
+! RAW: https://raw.githubusercontent.com/tazihad/bangladesh-filter/main/tazihad-bangladesh-filter.txt
 
 
 
